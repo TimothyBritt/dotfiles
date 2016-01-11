@@ -35,6 +35,7 @@ call vundle#end()
 filetype plugin indent on
 syntax on
 
+"Map keys
 let mapleader=","
 let g:user_emmet_leader_key='<C-e>'
 let &t_SI = "\<Esc>Ptmux;\<Esc>\<Esc>]50;CursorShape=1\x7\<Esc>\\"
