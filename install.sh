@@ -13,5 +13,5 @@ EXTRA_DIR="$HOME/.extra"
 # Bunch of symlinks
 
 ln -sfv "$DOTFILES_DIR/vimrc" ~/.vim
-ln -sfv "$DOTFILES_DIR/tmux.conf" ~
-ln -sfv "$DOTFILES_DIR/tmux.local.conf" ~
+ln -sfv "$DOTFILES_DIR/.tmux.conf" ~
+ln -sfv "$DOTFILES_DIR/.tmux.local.conf" ~
