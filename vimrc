@@ -53,7 +53,12 @@ set synmaxcol=128
 set ttyscroll=10
 set encoding=utf-8
 set softtabstop=2
-set nowrap
+set wrap
+set linebreak
+set nolist
+set textwidth=0
+set wrapmargin=0
+set formatoptions+=1
 set number
 set expandtab
 set nowritebackup
